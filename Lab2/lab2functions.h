@@ -4,14 +4,16 @@
 #ifndef LAB2FUNCTIONS
 #define LAB2FUNCTIONS
     // here is where your 4 function prototypes will go
-    int printCharArray(size_t l, char A[l]);
-    //int countLetters(size_t l, int A[l]);
-    //int numMatches(size_t l, int firstA[l], int secondA[l]);
+    void printCharArray(size_t l, char A[l]);
+    int countLetters(size_t l, char A[l]);
+    int numMatches(size_t length, char A[length], char B[length]);
     //int capitalize(size_t l, int A[l]);
     
     
     
     
 #endif
+
+
 
 
