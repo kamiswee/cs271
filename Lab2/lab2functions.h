@@ -7,7 +7,7 @@
     void printCharArray(size_t l, char A[l]);
     int countLetters(size_t l, char A[l]);
     int numMatches(size_t length, char A[length], char B[length]);
-    //int capitalize(size_t l, int A[l]);
+    void capitalize(size_t l, char A[l]);
     
     
     
